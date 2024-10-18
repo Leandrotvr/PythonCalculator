@@ -1,2 +1,2 @@
-# PythonCalculator
-A simple calculator to make basic operations
+# PythonIdeas
+Lets have fun
